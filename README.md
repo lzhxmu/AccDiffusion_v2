@@ -67,7 +67,11 @@ The hyperparameters c can be adjusted based on the degree of repetition and qual
 
 ## Reference
 [1] [Sdxl: improving latent diffusion models for high-resolution image synthesis.](https://arxiv.org/abs/2307.01952)
+
 [2] [Designing a practical degradation model for deep blind image super-resolution.](https://arxiv.org/abs/2103.14006)
+
 [3] [Adding conditional control to text-to-image diffusion models.](https://arxiv.org/abs/2302.05543)
+
 [4] [DemoFusion: Democratising High-Resolution Image Generation With No $$$](https://arxiv.org/abs/2311.16973)
+
 [5] [AccDiffusion: An Accurate Method for Higher-Resolution Image Generation](https://arxiv.org/abs/2407.10738v1)
