@@ -32,6 +32,11 @@ python accdiffusion_plus.py --experiment_name="AccDiffusionv2" \
 ``` 
 The hyperparameters c can be adjusted based on the degree of repetition and quality of the generated image. The quality of the high-resolution images generated is greatly related to the seed. 
 
+## Affiliation
+1. Shanghai Innovation Institute
+2. Xiamen University
+3. Rakuten
+
 
 ## Citation
 If you find this code useful, please cite our paper:
